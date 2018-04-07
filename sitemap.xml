@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge//blog/welcome-to-massively-the-jekyll-theme/</loc>
+      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge/blog/welcome-to-massively-the-jekyll-theme/</loc>
       
         <lastmod>2017-10-31T00:00:00+08:00</lastmod>
       
@@ -12,7 +12,7 @@
   
   
     <url>
-      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge//about/</loc>
+      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge/about/</loc>
        <lastmod>2017-11-02T00:00:00+08:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -22,7 +22,7 @@
      </url>
   
     <url>
-      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge//contact/</loc>
+      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge/contact/</loc>
        <lastmod>2017-11-02T00:00:00+08:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -32,7 +32,7 @@
      </url>
   
     <url>
-      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge//</loc>
+      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge/</loc>
        <lastmod>2017-11-02T00:00:00+08:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -42,7 +42,7 @@
      </url>
   
     <url>
-      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge//news/</loc>
+      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge/news/</loc>
        <lastmod>2017-11-02T00:00:00+08:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -52,7 +52,7 @@
      </url>
   
     <url>
-      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge//sitemap.xml</loc>
+      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge/sitemap.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -62,7 +62,7 @@
      </url>
   
     <url>
-      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge//technology/</loc>
+      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge/technology/</loc>
        <lastmod>2017-11-02T00:00:00+08:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -72,7 +72,7 @@
      </url>
   
     <url>
-      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge//feed.xml</loc>
+      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge/feed.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -82,7 +82,7 @@
      </url>
   
     <url>
-      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge//feed.xslt.xml</loc>
+      <loc>https://innvtuk-smart-city-challenge.github.io/InnvtUK-Smart-City-Challenge/feed.xslt.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
