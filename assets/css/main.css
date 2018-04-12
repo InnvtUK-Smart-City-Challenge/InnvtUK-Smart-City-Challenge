@@ -3585,7 +3585,7 @@
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			padding: 3rem 8rem 6rem 8rem ;
 		}
 
 			#main > .post header.major > .date {
@@ -3605,7 +3605,7 @@
 			@media screen and (max-width: 1280px) {
 
 				#main > .post {
-					padding: 6rem 4rem 4rem 4rem ;
+					padding: 3rem 4rem 4rem 4rem ;
 				}
 
 			}
@@ -3613,7 +3613,7 @@
 			@media screen and (max-width: 736px) {
 
 				#main > .post {
-					padding: 4rem 2rem 2rem 2rem ;
+					padding: 3rem 2rem 2rem 2rem ;
 				}
 
 					#main > .post header.major > .date {
