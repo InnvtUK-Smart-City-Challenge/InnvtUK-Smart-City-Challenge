@@ -3503,7 +3503,7 @@
 			list-style: none;
 			margin-bottom: 0;
 			padding-left: 0;
-			text-transform: capitalize;
+			text-transform: uppercase;
 		}
 
 			#nav ul.links li {
@@ -4392,7 +4392,7 @@
 					font-weight: 900;
 					letter-spacing: 0.075em;
 					padding: 0.75rem 0;
-					text-transform: uppercase;
+					text-transform: capitalize;
 				}
 
 				#navPanel .links li:first-child {
