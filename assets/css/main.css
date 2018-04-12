@@ -3503,7 +3503,7 @@
 			list-style: none;
 			margin-bottom: 0;
 			padding-left: 0;
-			text-transform: uppercase;
+			text-transform: capitalize;
 		}
 
 			#nav ul.links li {
